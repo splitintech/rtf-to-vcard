@@ -1,0 +1,138 @@
+{
+  "source_commit": "f5ec32bc4d050bfbd3f01ecc53569038eb9ce308",
+  "files": [
+    {
+      "path": ".github/workflows/contact-converter.yml",
+      "sha256": "a9ffcc5b834fd8319515021f89e3a2920a1f22847dbf81807e3e769bd0d55a26",
+      "source_sha256": "753a42b79544f3729f65dc091fdb6fdd44b76c9c7490415573bfc5bee14d63e7",
+      "mode": "100644",
+      "change": "Standalone documentation, repository metadata, workflow paths, or developer configuration."
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "8875234fb3a6c3a6c1526e29e84912dade9c68ac14fccad175e6d47b4674eb5a",
+      "source_sha256": "8875234fb3a6c3a6c1526e29e84912dade9c68ac14fccad175e6d47b4674eb5a",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "docs/brand/splitin-logo.png",
+      "sha256": "9e0954d3aa5ccfd94a358e61f9d0f18b2b80928c162d6a3228d9389769496a72",
+      "source_sha256": "9e0954d3aa5ccfd94a358e61f9d0f18b2b80928c162d6a3228d9389769496a72",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "d2594f4986b57b664b104b01b49ad6c47c89f8e9efdb379f3d94ca288b43f551",
+      "source_sha256": "1c6383e0c336156cf4f8aee15668e64b1ccf2663e5d01c05eedc88b30ef0fe41",
+      "mode": "100644",
+      "change": "Standalone documentation, repository metadata, workflow paths, or developer configuration."
+    },
+    {
+      "path": "README.md",
+      "sha256": "008d2dc3613611f6441b6f903cc13fcef9f8ad3b513b5702cf22fde9d4ab5869",
+      "source_sha256": "e36f1307167c359b322f630188f448e411fbd676654fd6389ec23e44b757fb85",
+      "mode": "100644",
+      "change": "Standalone documentation, repository metadata, workflow paths, or developer configuration."
+    },
+    {
+      "path": "example.csv",
+      "sha256": "052142953e05dd11829bc7d9241f90b22633766750e5ed281bbbf0a622185728",
+      "source_sha256": "052142953e05dd11829bc7d9241f90b22633766750e5ed281bbbf0a622185728",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "example.html",
+      "sha256": "52e432fdf117e1d86f7b80367bbef404f5ec81cad4a7e0023baf46ada77b6b65",
+      "source_sha256": "52e432fdf117e1d86f7b80367bbef404f5ec81cad4a7e0023baf46ada77b6b65",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "example.rtf",
+      "sha256": "16d212b7dff7aacda06cd64e48a73d17f4583617a6beef8f5df9c78b560fa145",
+      "source_sha256": "16d212b7dff7aacda06cd64e48a73d17f4583617a6beef8f5df9c78b560fa145",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "example.txt",
+      "sha256": "b8259d70692edb2ec5190e0a13dd4cde2f663a4815aab9bcc0c792c14b92cf85",
+      "source_sha256": "b8259d70692edb2ec5190e0a13dd4cde2f663a4815aab9bcc0c792c14b92cf85",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "export-fixtures.json",
+      "sha256": "5b3125a08ff23645aac0a1ad38f37de2a9967a9b6655948d74ba57263c496783",
+      "source_sha256": "5b3125a08ff23645aac0a1ad38f37de2a9967a9b6655948d74ba57263c496783",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "export-schema.json",
+      "sha256": "fc959d89488374340f3d70051a60962d855d9e449565f80769587e2f042adbce",
+      "source_sha256": "fc959d89488374340f3d70051a60962d855d9e449565f80769587e2f042adbce",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "field-schema.json",
+      "sha256": "d980bfaa589cb25d9421c0439dc4cbdf6332805d14bbbcd0364cbeb23b11b9cd",
+      "source_sha256": "d980bfaa589cb25d9421c0439dc4cbdf6332805d14bbbcd0364cbeb23b11b9cd",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "fixture_runner.py",
+      "sha256": "9457e97b3b4cc030ae24ff9cb3dee92b165189b1137377e462a241a21028dbcf",
+      "source_sha256": "9457e97b3b4cc030ae24ff9cb3dee92b165189b1137377e462a241a21028dbcf",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "fixtures.json",
+      "sha256": "a58d1339d26c4cabd8f58232b23a22a81ba53dd2fc853a79e76f6d6cac14a551",
+      "source_sha256": "a58d1339d26c4cabd8f58232b23a22a81ba53dd2fc853a79e76f6d6cac14a551",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "d233633a7c2e9507c3328a9b630a52f8659e4aabd10c9110c7a4ccae0435fbaa",
+      "source_sha256": "d233633a7c2e9507c3328a9b630a52f8659e4aabd10c9110c7a4ccae0435fbaa",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "rtf_to_vcard.py",
+      "sha256": "ea2e24eb0be3ed5bec402bec4a2f20cabde1088b4c57346737d2956ae88db427",
+      "source_sha256": "ea2e24eb0be3ed5bec402bec4a2f20cabde1088b4c57346737d2956ae88db427",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "test_contact_exports.py",
+      "sha256": "05590520a837771d6cd4e8891f3c5096dbaf36364f294a65f987887b4bd8bc41",
+      "source_sha256": "05590520a837771d6cd4e8891f3c5096dbaf36364f294a65f987887b4bd8bc41",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "test_rtf_to_vcard.py",
+      "sha256": "c0494202f794412d04f6461592b27e7c0f2034ee9dcb4c93d888b4e06cc81a87",
+      "source_sha256": "c0494202f794412d04f6461592b27e7c0f2034ee9dcb4c93d888b4e06cc81a87",
+      "mode": "100644",
+      "change": null
+    },
+    {
+      "path": "validate_vcards.py",
+      "sha256": "14f86f4589d67026dc1853cf9155e45cf22bf82cc9df1e57143739ae517250e6",
+      "source_sha256": "14f86f4589d67026dc1853cf9155e45cf22bf82cc9df1e57143739ae517250e6",
+      "mode": "100644",
+      "change": null
+    }
+  ]
+}

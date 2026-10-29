@@ -1,0 +1,140 @@
+{
+  "source_repository": "https://github.com/splitintech/open-internal-tools",
+  "source_commit": "f5ec32bc4d050bfbd3f01ecc53569038eb9ce308",
+  "product": "rtf-to-vcard",
+  "files": [
+    {
+      "source": ".github/workflows/contact-converter.yml",
+      "target": ".github/workflows/contact-converter.yml",
+      "git_blob": "34bdf13962a7003b41b673a6d27ed5f403a7dc4c",
+      "mode": "100644",
+      "sha256": "753a42b79544f3729f65dc091fdb6fdd44b76c9c7490415573bfc5bee14d63e7"
+    },
+    {
+      "source": "LICENSE",
+      "target": "LICENSE",
+      "git_blob": "48558c9ed2413adf3ba96a877a8be732845bdbc1",
+      "mode": "100644",
+      "sha256": "8875234fb3a6c3a6c1526e29e84912dade9c68ac14fccad175e6d47b4674eb5a"
+    },
+    {
+      "source": "docs/brand/splitin-logo.png",
+      "target": "docs/brand/splitin-logo.png",
+      "git_blob": "807558c4206517d878dfe932315bf738317141fe",
+      "mode": "100644",
+      "sha256": "9e0954d3aa5ccfd94a358e61f9d0f18b2b80928c162d6a3228d9389769496a72"
+    },
+    {
+      "source": "rtf-to-vcard/.gitignore",
+      "target": ".gitignore",
+      "git_blob": "32d8813709e1f2077f8c7f8b6d0a330614ed7ccd",
+      "mode": "100644",
+      "sha256": "1c6383e0c336156cf4f8aee15668e64b1ccf2663e5d01c05eedc88b30ef0fe41"
+    },
+    {
+      "source": "rtf-to-vcard/README.md",
+      "target": "README.md",
+      "git_blob": "c5e56de080b58a79c86a3450e27c19a2077f53a5",
+      "mode": "100644",
+      "sha256": "e36f1307167c359b322f630188f448e411fbd676654fd6389ec23e44b757fb85"
+    },
+    {
+      "source": "rtf-to-vcard/example.csv",
+      "target": "example.csv",
+      "git_blob": "490eb3e35f81a516e3ed42748a3cb406d09a8583",
+      "mode": "100644",
+      "sha256": "052142953e05dd11829bc7d9241f90b22633766750e5ed281bbbf0a622185728"
+    },
+    {
+      "source": "rtf-to-vcard/example.html",
+      "target": "example.html",
+      "git_blob": "adfa7a805e12b7e79860f039eb26d2be5d786bc0",
+      "mode": "100644",
+      "sha256": "52e432fdf117e1d86f7b80367bbef404f5ec81cad4a7e0023baf46ada77b6b65"
+    },
+    {
+      "source": "rtf-to-vcard/example.rtf",
+      "target": "example.rtf",
+      "git_blob": "f4f939e59d3368f464556d54f4f9906c776de3c6",
+      "mode": "100644",
+      "sha256": "16d212b7dff7aacda06cd64e48a73d17f4583617a6beef8f5df9c78b560fa145"
+    },
+    {
+      "source": "rtf-to-vcard/example.txt",
+      "target": "example.txt",
+      "git_blob": "96395a92c56c5f2bbc36d1748b33939cf10eeb40",
+      "mode": "100644",
+      "sha256": "b8259d70692edb2ec5190e0a13dd4cde2f663a4815aab9bcc0c792c14b92cf85"
+    },
+    {
+      "source": "rtf-to-vcard/export-fixtures.json",
+      "target": "export-fixtures.json",
+      "git_blob": "c1da395bcc091a04b85950e09baa6f174e060b14",
+      "mode": "100644",
+      "sha256": "5b3125a08ff23645aac0a1ad38f37de2a9967a9b6655948d74ba57263c496783"
+    },
+    {
+      "source": "rtf-to-vcard/export-schema.json",
+      "target": "export-schema.json",
+      "git_blob": "6833805f4e9bcb885ea4715fa75d3639a24f9a2b",
+      "mode": "100644",
+      "sha256": "fc959d89488374340f3d70051a60962d855d9e449565f80769587e2f042adbce"
+    },
+    {
+      "source": "rtf-to-vcard/field-schema.json",
+      "target": "field-schema.json",
+      "git_blob": "012f68dc70ad9c4fe2ed2bfaeb53589d76b43cb9",
+      "mode": "100644",
+      "sha256": "d980bfaa589cb25d9421c0439dc4cbdf6332805d14bbbcd0364cbeb23b11b9cd"
+    },
+    {
+      "source": "rtf-to-vcard/fixture_runner.py",
+      "target": "fixture_runner.py",
+      "git_blob": "c8ff2146d08b697e08d5a6eba7fe338c0bd4ba0f",
+      "mode": "100644",
+      "sha256": "9457e97b3b4cc030ae24ff9cb3dee92b165189b1137377e462a241a21028dbcf"
+    },
+    {
+      "source": "rtf-to-vcard/fixtures.json",
+      "target": "fixtures.json",
+      "git_blob": "e5da6dd2f5087dd25332c0a9e8cd49f3eb743019",
+      "mode": "100644",
+      "sha256": "a58d1339d26c4cabd8f58232b23a22a81ba53dd2fc853a79e76f6d6cac14a551"
+    },
+    {
+      "source": "rtf-to-vcard/requirements.txt",
+      "target": "requirements.txt",
+      "git_blob": "70a76b90a377230b657e89729f9c9dc0a3e42dec",
+      "mode": "100644",
+      "sha256": "d233633a7c2e9507c3328a9b630a52f8659e4aabd10c9110c7a4ccae0435fbaa"
+    },
+    {
+      "source": "rtf-to-vcard/rtf_to_vcard.py",
+      "target": "rtf_to_vcard.py",
+      "git_blob": "846f322607c27e2e881e9d9c840f423bf68d466f",
+      "mode": "100644",
+      "sha256": "ea2e24eb0be3ed5bec402bec4a2f20cabde1088b4c57346737d2956ae88db427"
+    },
+    {
+      "source": "rtf-to-vcard/test_contact_exports.py",
+      "target": "test_contact_exports.py",
+      "git_blob": "38326c6bfa425a123c662b12b1d7e63eafcb1be2",
+      "mode": "100644",
+      "sha256": "05590520a837771d6cd4e8891f3c5096dbaf36364f294a65f987887b4bd8bc41"
+    },
+    {
+      "source": "rtf-to-vcard/test_rtf_to_vcard.py",
+      "target": "test_rtf_to_vcard.py",
+      "git_blob": "5939f2f4090a25a66bf307cac35b47ef2943566c",
+      "mode": "100644",
+      "sha256": "c0494202f794412d04f6461592b27e7c0f2034ee9dcb4c93d888b4e06cc81a87"
+    },
+    {
+      "source": "rtf-to-vcard/validate_vcards.py",
+      "target": "validate_vcards.py",
+      "git_blob": "1a9a91dc75801c131a4196b2d2290270bfe0346a",
+      "mode": "100644",
+      "sha256": "14f86f4589d67026dc1853cf9155e45cf22bf82cc9df1e57143739ae517250e6"
+    }
+  ]
+}

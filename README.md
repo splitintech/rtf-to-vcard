@@ -402,3 +402,8 @@ protected; use `--force` to replace one. `--encoding` changes the fallback
 encoding for documents without an explicit RTF codepage.
 
 RTF decoding uses [striprtf](https://pypi.org/project/striprtf/).
+
+
+## Standalone repository
+
+This product is maintained at [rtf-to-vcard](https://github.com/splitintech/rtf-to-vcard). Clone this repository and run the documented setup from its root. The npm/package and API identities are preserved. See [migration provenance](docs/migration.md) and [contributing](CONTRIBUTING.md).
