@@ -3,7 +3,7 @@
   "files": [
     {
       "path": ".github/workflows/contact-converter.yml",
-      "sha256": "a9ffcc5b834fd8319515021f89e3a2920a1f22847dbf81807e3e769bd0d55a26",
+      "sha256": "8e6d01c2c8ad910d086193057a8f176a22524261ab11f649aaa7faccfd9d895b",
       "source_sha256": "753a42b79544f3729f65dc091fdb6fdd44b76c9c7490415573bfc5bee14d63e7",
       "mode": "100644",
       "change": "Standalone documentation, repository metadata, workflow paths, or developer configuration."

@@ -9,3 +9,5 @@ The product was extracted from `splitintech/open-internal-tools` commit `f5ec32b
 Run `python3 scripts/check-migration.py --snapshot` for exact migration integrity; run without `--snapshot` after subsequent development to validate inventory and retained assets. The extraction does not publish npm packages, install services, provision infrastructure or qualify live provider integrations. Existing consumers retain their package/API identities.
 
 The old folder becomes a migration notice only after remote source and standalone checks are verified. Restore a previous consumer artifact or use the pinned hub revision for rollback. New development belongs in this repository.
+
+The converter CI pins Ubuntu 22.04 to retain its Python 3.9 compatibility check; the newer ubuntu-latest image does not provide that interpreter.
